@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "lib": ["deno.ns", "deno.window"],
+        "types": ["https://deno.land/x/supabase_deno_client@v2.0.0/types.ts"]
+    }
+}
